@@ -1,0 +1,19 @@
+input::placeholder{
+    color: crimson;
+    font-weight: bold;
+    padding-left: 10px;
+}
+input:hover{
+    color: blueviolet;
+    background-color: aqua;
+    border-radius: 8px;
+    border: none;
+    margin: 5px;
+}
+.editing2{
+     color: crimson;
+     background-color: darkgoldenrod;
+     border-radius: 8px;
+     font-weight: bold;
+     border: none;
+}
